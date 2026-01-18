@@ -2,7 +2,7 @@
 
 # 💫 About Me
 
-### Hi there 👋
+### Hello there! 👋
 
 💻 Student & Developer passionate about open source and civic tech.
 
@@ -33,7 +33,11 @@
 ### Tools & Testing
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white) ![Vitest](https://img.shields.io/badge/-Vitest-252b3b?style=flat-square&logo=vitest&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=flat-square&logo=prettier&logoColor=black)
 <br/>
+
+---
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
 ---
 
 ## 📊 GitHub Stats
