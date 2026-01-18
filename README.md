@@ -38,15 +38,5 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
----
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Trapston3&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Trapston3&theme=tokyonight&hide_border=true)
-<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Trapston3&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
 
 </div>
